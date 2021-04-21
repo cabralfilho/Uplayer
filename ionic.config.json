@@ -1,0 +1,8 @@
+{
+  "name": "player",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2484689a"
+}
