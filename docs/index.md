@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<! DOCTYPE html>
+<html lang = "en">
 
-You can use the [editor on GitHub](https://github.com/cabralfilho/Uplayer/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset = "utf-8" />
+  <title> Ionic App </title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <base href = "/" />
 
-### Markdown
+  <meta name = "esquema de cores" content = "claro escuro" />
+  <meta name = "viewport" content = "viewport-fit = cover, width = device-width, initial-scale = 1.0, minimum-scale = 1.0, maximum-scale = 1.0, user-scalable = no" />
+  <meta name = "format-detecção" content = "telefone = no" />
+  <meta name = "msapplication-tap-highlight" content = "no" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <link rel = "icon" type = "image / png" href = "assets / icon / favicon.png" />
 
-```markdown
-Syntax highlighted code block
+  <! - adicionar à tela inicial para ios ->
+  <meta name = "apple-mobile-web-app-capacity" content = "yes" />
+  <meta name = "apple-mobile-web-app-status-bar-style" content = "black" />
+</head>
 
-# Header 1
-## Header 2
-### Header 3
+<body>
+  <app-root> </app-root>
+</body>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cabralfilho/Uplayer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
